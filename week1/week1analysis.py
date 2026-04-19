@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("your_file.csv")
+df = pd.read_csv("student.csv")
 
 print("Shape:", df.shape)
 print("\nColumns:", df.columns.tolist())
