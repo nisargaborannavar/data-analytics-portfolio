@@ -16,5 +16,7 @@ A weekly portfolio tracking my data analytics learning journey.
 - Practice files: day1.py through day7.py
 
 ### Week 2 — Jupyter + Git Workflow
-- Jupyter notebook EDA on Kaggle dataset
-- Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+- Jupyter notebook EDA on Superstore Sales dataset
+- Dataset: [Superstore – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- Tools: Python, Pandas, Matplotlib, Seaborn
+- What I did: Loaded dataset, cleaned nulls and dtypes, created 3 charts, exported to HTML
