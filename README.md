@@ -15,16 +15,18 @@ A weekly portfolio tracking my data analytics learning journey.
 - CSV analysis with Python
 - Practice files: day1.py through day7.py
 
-### Week 2 — Jupyter + Git Workflow
-- Jupyter notebook EDA on Superstore Sales dataset
+### Week 2 — Jupyter + SQL Practice
+
+**Jupyter Notebook EDA**
 - Dataset: [Superstore – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - Tools: Python, Pandas, Matplotlib, Seaborn
 - What I did: Loaded dataset, cleaned nulls and dtypes, created 3 charts, exported to HTML
--SQL Practice
-  Platform: StrataScratch
-  Topics: JOINs, aggregations, GROUP BY, HAVING, BETWEEN, ILIKE filtering
-  File: `sql/stratascratch_easy_1.sql`
-  Questions solved:
+
+**SQL Practice**
+- Platform: StrataScratch
+- Topics: JOINs, aggregations, GROUP BY, HAVING, BETWEEN, ILIKE filtering
+- File: `sql/stratascratch_easy_1.sql`
+- Questions solved:
   1. Find posts reacted to with a heart
   2. Count Oscar movies for Abigail Breslin
   3. Find wineries by flavor description keywords
