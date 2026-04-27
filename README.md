@@ -32,3 +32,14 @@ A weekly portfolio tracking my data analytics learning journey.
   3. Find wineries by flavor description keywords
   4. Total comments per user in a date range
   5. Total order cost per customer sorted alphabetically
+
+## Week 3 - Pandas Core
+
+### Day 1 - EDA
+- Explored Titanic dataset
+- Checked shape, dtypes, missing values
+
+### Day 3 - Data Cleaning
+- Filled missing Age using group median
+- Dropped Cabin column (too many nulls)
+- Filled Embarked using mode
